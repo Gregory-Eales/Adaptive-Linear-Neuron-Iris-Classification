@@ -29,9 +29,12 @@ Matplotlib: https://matplotlib.org/ <br/>
 ## Data:
 
 <p align="center">
-  <img src="https://github.com/Gregory-Eales/Adaptive-Linear-Neuron-Iris-Classification/blob/master/Photos/Gradient%20Descent%20Diagram.png" width="500"/>
+  <img src="https://github.com/Gregory-Eales/Adaptive-Linear-Neuron-Iris-Classification/blob/master/Photos/Classified%20Iris%20Data.png" width="500"/>
 </p>
 
+<p align="center">
+  <img src="https://github.com/Gregory-Eales/Adaptive-Linear-Neuron-Iris-Classification/blob/master/Photos/Standardization%20Formula.png" width="500"/>
+</p>
 
 
 ## Training:
