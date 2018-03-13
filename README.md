@@ -2,6 +2,10 @@
 
 ## Overview:
 
+<p align="center">
+  <img src="https://github.com/Gregory-Eales/Adaptive-Linear-Neuron-Iris-Classification/blob/master/Photos/Gradient%20Descent%20Diagram.png" width="500"/>
+</p>
+
 
 ## Requirements:
 
